@@ -1,3 +1,3 @@
 # SCA-PRACTICE
-THIS IS TO LEARN MORE ON HOW TO USE GIT with timw i will make you better 
-ans also this to document my SCA open source learning 
+THIS IS TO LEARN MORE ON HOW TO USE GIT with time i will make you better 
+and also this to document my SCA open source learning 
